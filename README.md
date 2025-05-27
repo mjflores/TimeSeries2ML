@@ -1,1 +1,2 @@
-# TimeSeries2ML
+# TimeSeries to Machine Learning input
+
